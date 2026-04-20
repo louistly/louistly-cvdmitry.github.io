@@ -1,4 +1,3 @@
-1. [Pashchenko, D.I. Thermochemical recovery of heat contained in flue gases by means of
-bioethanol conversion (2013) Thermal Engineering, 60 (6), 438-443.]()
-2.
+1. [Pashchenko, D.I. Thermochemical recovery of heat contained in flue gases by means of bioethanol conversion (2013) Thermal Engineering, 60 (6), 438-443.](https://github.com/louistly/louistly-cvdmitry.github.io/blow/d9219a6327900136830d3b06eae43cd635faf103/J1_Thermal_Engineering_2013.pdf)
+2. [Pashchenko, D. Thermodynamic equilibrium analysis of combined dry and steam reforming of propane for thermochemical waste-heat recuperation (2017) International Journal of Hydrogen Energy, 42 (22), 14926-14935.](https://github.com/louistly/louistly-cvdmitry.github.io/blob/J-Refereed-papers-in-professional-journals/J2_International_Journal_of_Hydrogen_Energy_2017.pdf) 
 
